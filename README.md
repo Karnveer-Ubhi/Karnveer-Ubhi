@@ -9,7 +9,7 @@
 - Collabaroting with others on projects
 - Learning a new sport
 
-📫 How to reach me:
+📫 How to reach me
 Email: k.ubhi@outlook.com
 LinkedIn: https://www.linkedin.com/in/karnveer-ubhi-2675971b4/
 
