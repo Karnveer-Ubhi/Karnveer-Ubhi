@@ -1,17 +1,17 @@
 ### Hi there, My name is Karnveer Ubhi 👋
 
-###👋 About me
-- I am currenrly a Computer Science (BSc Honours) Student at York University
-- Currently looking for a co-op postion in my field
+👋 About me
+  - I am currenrly a Computer Science (BSc Honours) Student at York University
+  - Currently looking for a co-op postion in my field
 
-###🔭 I’m currently working on
-- Expaninding my Programming Skills
-- Collabaroting with others on projects
-- Learning a new sport
+🔭 I’m currently working on
+  - Expaninding my Programming Skills
+  - Collabaroting with others on projects
+  - Learning a new sport
 
-###📫 How to reach me
-Email: k.ubhi@outlook.com
-LinkedIn: https://www.linkedin.com/in/karnveer-ubhi-2675971b4/
+📫 How to reach me
+  - Email: k.ubhi@outlook.com
+  - LinkedIn: https://www.linkedin.com/in/karnveer-ubhi-2675971b4/
 
 <!--
 **Karnveer-Ubhi/Karnveer-Ubhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
