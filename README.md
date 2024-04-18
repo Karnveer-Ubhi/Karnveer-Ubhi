@@ -2,7 +2,7 @@
 
 👋 About me
   - I am currenrly a Computer Science (BSc Honours) Student at York University
-  - Currently looking for a co-op postion in my field
+  - Currently looking for a co-op postion in Computer Security
 
 🔭 I’m currently working on
   - Expaninding my Programming Skills
